@@ -1,6 +1,4 @@
 # Calculator
- <h1 style="color: #2c3e50;">📟 Calculator Project</h1>
-
  <p>
         This is a simple and responsive <strong>Calculator Application</strong> built using 
         <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. 
