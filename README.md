@@ -1,4 +1,5 @@
 # Calculator
+
  <p>
         This is a simple and responsive <strong>Calculator Application</strong> built using 
         <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. 
