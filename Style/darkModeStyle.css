@@ -130,6 +130,7 @@ input::placeholder{
     }
 }
 
+/* Mobile touch effect */
 
 @media (hover: none) and (pointer: coarse){
     .button:hover{
