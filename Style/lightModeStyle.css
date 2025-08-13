@@ -132,7 +132,7 @@ input::placeholder{
 
 /* Mobile touch effect */
 
-@media(hover: none){
+@media (hover: none) and (pointer: coarse){
     .button:hover
     .button:focus{
         background-color: initial;
