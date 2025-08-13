@@ -130,7 +130,12 @@ input::placeholder{
     }
 }
 
+/* Mobile touch effect */
+
 @media(hover: none){
+    .button:hover{
+        background-color: initial;
+    }
     .button:active{
     background-color: #717371;
     }

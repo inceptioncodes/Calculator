@@ -131,6 +131,9 @@ input::placeholder{
 }
 
 @media(hover: none){
+    .button:hover{
+        background-color: initial;
+    }
     .button:active{
     background-color: rgba(106, 79, 79, 0.712);
     }
