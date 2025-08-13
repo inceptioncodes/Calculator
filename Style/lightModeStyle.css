@@ -133,7 +133,8 @@ input::placeholder{
 /* Mobile touch effect */
 
 @media(hover: none){
-    .button:hover{
+    .button:hover
+    .button:focus{
         background-color: initial;
     }
     .button:active{
