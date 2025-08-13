@@ -133,9 +133,11 @@ input::placeholder{
 /* Mobile touch effect */
 
 @media (hover: none) and (pointer: coarse){
-   .button:hover{
-    background-color: initial;
-    color: inherit;
-    transform: none;
-   }
+    .button:hover{
+        background-color: transparent;
+    }
+
+    .ac:hover{
+        background-color: rgba(67, 19, 19, 0.88);
+    }
 }
