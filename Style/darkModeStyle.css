@@ -3,6 +3,7 @@
     border: 0;
     box-sizing: border-box;
     font-family: 'Roboto',sans-serif;
+    -webkit-tap-highlight-color: transparent;
 }
 
 body{
@@ -85,6 +86,7 @@ input::placeholder{
 }
 
 .button{
+    -webkit-appearence: none;
     font-size: 1.5rem;
     border: none;
     outline: none;
@@ -125,5 +127,11 @@ input::placeholder{
     .calcbtn{
         display: flex;
         flex-direction: row;
+    }
+}
+
+@media(hover: none){
+    .button:active{
+    background-color: rgba(106, 79, 79, 0.712);
     }
 }

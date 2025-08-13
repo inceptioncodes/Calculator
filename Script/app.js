@@ -1,5 +1,5 @@
-const lightTheme = "style/lightModeStyle.css";
-const darkTheme = "style/darkModeStyle.css";
+const lightTheme = "Style/lightModeStyle.css";
+const darkTheme = "Style/darkModeStyle.css";
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
 
