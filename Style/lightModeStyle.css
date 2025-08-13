@@ -133,11 +133,10 @@ input::placeholder{
 /* Mobile touch effect */
 
 @media (hover: none) and (pointer: coarse){
-    .button:hover
-    .button:focus{
-        background-color: initial;
-    }
-    .button:active{
-    background-color: #717371;
-    }
+   .button:hover{
+    background-color: transparent;
+   }
+   .ac:hover{
+    background-color: #596d60;
+   }
 }

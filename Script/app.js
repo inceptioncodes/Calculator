@@ -12,7 +12,7 @@ const themeIcon = document.getElementById("theme-style");
 themeIcon.addEventListener("click",() =>{
     setTimeout(() => {
     toast.innerHTML = "Calculator";
-  }, 1500);
+  }, 1000);
   if (theme.getAttribute("href") === lightTheme) {
     theme.setAttribute("href", darkTheme);
     themeIcon.classList.replace("fa-moon","fa-sun");
