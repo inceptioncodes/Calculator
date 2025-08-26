@@ -7,7 +7,7 @@
         users to switch according to their preference.
  </p>
 
- <h2 style="color: #34495e;">✨ Features</h2>
+ <h2>✨ Features</h2>
     <ul>
         <li>Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)</li>
         <li>Clear and delete functionality</li>
@@ -16,7 +16,7 @@
         <li>User-friendly interface</li>
     </ul>
 
- <h2 style="color: #34495e;">🛠️ Technologies Used</h2>
+ <h2>🛠️ Technologies Used</h2>
     <ul>
         <li><strong>HTML5</strong> – Structure of the calculator</li>
         <li><strong>CSS3</strong> – Styling and theme modes</li>
